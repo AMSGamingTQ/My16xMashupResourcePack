@@ -4,6 +4,7 @@ This is my 16x Mashup Resource Pack (RP) for Minecraft PvP. I've made some of my
 Previews:
 ------
 [Click here](https://youtu.be/vaCyN9YrNjI) to find a video showcase of the RP.
+
 [Click here](http://imgur.com/a/ghfMk) to find the imgur album of the RP.
 
 Downloads:
@@ -19,5 +20,7 @@ Others:
 ------
 You can find my YouTube channel [here](http://www.youtube.com/AMSGamingTQ)!
 If you need to contact me for some reason, you can do so via Discord (ams#1208).
+
 I play on the [Lifeboat PC Network](http://oc.tc/)!
+
 You can give feedback and stuff [here](https://oc.tc/forums/topics/56dc71145f35b94e01000018)!
